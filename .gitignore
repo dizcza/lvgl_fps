@@ -1,0 +1,7 @@
+.cproject
+.project
+.cache/
+build/
+ignored/
+sdkconfig.old
+*.component_hash
